@@ -78,7 +78,7 @@ Min Fan, Xinyue Cui, Jing Hao, Renxuan Ye, **Wanqing Ma**, Xin Tong, Meng Li
 
 Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 2024
 
-🔗 [**DOI**](https://doi.org/10.1145/3613905.3651118)
+📄 [**PDF**](https://web.archive.org/web/20240603030911id_/https://dl.acm.org/doi/pdf/10.1145/3613905.3651118)｜🔗 [**DOI**](https://doi.org/10.1145/3613905.3651118)
 
 <!--
 [**PDF**](https://dl.acm.org/doi/pdf/10.1145/3706598.3713478) 
