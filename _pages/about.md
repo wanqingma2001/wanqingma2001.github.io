@@ -128,7 +128,7 @@ Selected for exhibition at the 2022 Sandbox Immersive Festival, and received awa
 
 - *2024* First Prize of 2024 Honor National Design Competition
 - *2024* Second Prize in Beijing College Students’ Animation Design Competition
-- *2023* Leader of Top 100 Team in Beijing College Students’ Innovation and Entrepreneurship Competitio
+- *2023* Leader of Top 100 Team in Beijing College Students’ Innovation and Entrepreneurship Competition
 
 
 <!--
