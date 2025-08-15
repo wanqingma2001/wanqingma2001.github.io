@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI</div><img src='images/apatingtodiverseneed-image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adapting to Diverse Special Needs: A Scoping Review of ParticipatoryDesign Involving Children with Learning Disabilities](https://doi.org/10.1080/10447318.2025.2531269)
+[Adapting to Diverse Special Needs: A Scoping Review of Participatory Design Involving Children with Learning Disabilities](https://doi.org/10.1080/10447318.2025.2531269)
 
 **Wanqing Ma**, Min Fan, Yuning Shi, Phoebe Kowalska
 
