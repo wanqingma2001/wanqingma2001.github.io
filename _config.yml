@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wanqing Ma"
   avatar           : "images/image-mwq.jpeg"
-  bio              : "Communication University of China"
-  location         : "Beijing, China"
+  bio              : "PhD student at the University of Illinois Urbana-Champaign"
+  location         : "Urbana-Champaign, Illinois, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VELXPqAAAAAJ"
-  email            : "mawanqing@cuc.edu.cn"
+  email            : "wanqing7@illinois.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Mwanqing"
   google_plus      :
   keybase          :
   instagram        :

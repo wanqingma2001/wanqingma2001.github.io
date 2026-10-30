@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m Wanqing, a master's student at The Communication University of China, working under the supervision of Professor Min Fan in [IDC Lab](http://www.min-fan.com/). My research interests lie in the field of child-computer interaction, with a particular focus on child-centered AI design, AI for creativity, and participatory design. Before that, I received my bachelor's degree in Digital Media Art from The Communication University of China.
+Hi! I’m Wanqing, a PhD student at the University of Illinois Urbana-Champaign, advised by Professor Yun Huang. My research interests lie in the field of child-computer interaction, with a particular focus on child-centered AI design, AI for creativity, and participatory design. Before that, I completed my master’s degree at the Communication University of China under the supervision of Professor Min Fan in [IDC Lab](http://www.min-fan.com/), and received my bachelor’s degree in Digital Media Art from the same university.
  
 
 <!--
@@ -31,6 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 📖 Educations
+- *2026.08 - Present*, PhD in Information Sciences, University of Illinois Urbana-Champaign.
 - *2023.06 - 2026.06*, Master of Arts in Digital Media Arts, Communication University of China. Supervisor: Professor Min Fan
 - *2019.09 - 2023.06*, Bachelor of Arts in Digital Media Arts, Communication University of China. 
 
